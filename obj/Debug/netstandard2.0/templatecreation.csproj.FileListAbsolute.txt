@@ -1,0 +1,9 @@
+C:\Users\Riven\Desktop\test\VSCode_Workspace\templatecreation\bin\Debug\netstandard2.0\templatecreation.deps.json
+C:\Users\Riven\Desktop\test\VSCode_Workspace\templatecreation\bin\Debug\netstandard2.0\templatecreation.dll
+C:\Users\Riven\Desktop\test\VSCode_Workspace\templatecreation\bin\Debug\netstandard2.0\templatecreation.pdb
+C:\Users\Riven\Desktop\test\VSCode_Workspace\templatecreation\obj\Debug\netstandard2.0\templatecreation.csprojAssemblyReference.cache
+C:\Users\Riven\Desktop\test\VSCode_Workspace\templatecreation\obj\Debug\netstandard2.0\templatecreation.csproj.CoreCompileInputs.cache
+C:\Users\Riven\Desktop\test\VSCode_Workspace\templatecreation\obj\Debug\netstandard2.0\templatecreation.AssemblyInfoInputs.cache
+C:\Users\Riven\Desktop\test\VSCode_Workspace\templatecreation\obj\Debug\netstandard2.0\templatecreation.AssemblyInfo.cs
+C:\Users\Riven\Desktop\test\VSCode_Workspace\templatecreation\obj\Debug\netstandard2.0\templatecreation.dll
+C:\Users\Riven\Desktop\test\VSCode_Workspace\templatecreation\obj\Debug\netstandard2.0\templatecreation.pdb

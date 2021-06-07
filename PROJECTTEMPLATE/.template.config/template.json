@@ -1,0 +1,15 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "Linkprada",
+  "classifications": [ "Web", "MVC", "SPA" ],
+  "identity": "Template.NetCore3.1_With_Angular10.1",
+  "name": "ASP.NET Core 3.1 with Angular 10.1",
+  "shortName": "angular10",
+  "tags": {
+    "language": "C#",
+    "type": "project"
+  },
+  "sourceName": "PROJECTTEMPLATE",
+  "preferNameDirectory" : true,
+  "placeholderFilename": ".keep"
+}

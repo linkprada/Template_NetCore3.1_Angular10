@@ -1,0 +1,9 @@
+C:\Users\Riven\Desktop\test\VSCode_Workspace\templatecreation\bin\Debug\netcoreapp3.1\templatecreation.deps.json
+C:\Users\Riven\Desktop\test\VSCode_Workspace\templatecreation\bin\Debug\netcoreapp3.1\templatecreation.dll
+C:\Users\Riven\Desktop\test\VSCode_Workspace\templatecreation\bin\Debug\netcoreapp3.1\templatecreation.pdb
+C:\Users\Riven\Desktop\test\VSCode_Workspace\templatecreation\obj\Debug\netcoreapp3.1\templatecreation.csprojAssemblyReference.cache
+C:\Users\Riven\Desktop\test\VSCode_Workspace\templatecreation\obj\Debug\netcoreapp3.1\templatecreation.csproj.CoreCompileInputs.cache
+C:\Users\Riven\Desktop\test\VSCode_Workspace\templatecreation\obj\Debug\netcoreapp3.1\templatecreation.AssemblyInfoInputs.cache
+C:\Users\Riven\Desktop\test\VSCode_Workspace\templatecreation\obj\Debug\netcoreapp3.1\templatecreation.AssemblyInfo.cs
+C:\Users\Riven\Desktop\test\VSCode_Workspace\templatecreation\obj\Debug\netcoreapp3.1\templatecreation.dll
+C:\Users\Riven\Desktop\test\VSCode_Workspace\templatecreation\obj\Debug\netcoreapp3.1\templatecreation.pdb

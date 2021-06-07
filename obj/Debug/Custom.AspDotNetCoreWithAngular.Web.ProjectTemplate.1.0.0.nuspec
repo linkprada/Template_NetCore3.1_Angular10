@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Custom.AspDotNetCoreWithAngular.Web.ProjectTemplate</id>
+    <version>1.0.0</version>
+    <title>AspDotNetCoreWithAngular Template</title>
+    <authors>Linkprada</authors>
+    <owners>Linkprada</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Templates to use when creating an application AspDotNetCore 3.1 With Angular 10.1.</description>
+    <tags>dotnet-new templates contoso</tags>
+    <packageTypes>
+      <packageType name="Template" />
+    </packageTypes>
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\Riven\Desktop\test\VSCode_Workspace\templatecreation\PROJECTTEMPLATE\.gitignore" target="content\PROJECTTEMPLATE\.gitignore" />
+    <file src="C:\Users\Riven\Desktop\test\VSCode_Workspace\templatecreation\PROJECTTEMPLATE\.template.config\template.json" target="content\PROJECTTEMPLATE\.template.config\template.json" />
+    <file src="C:\Users\Riven\Desktop\test\VSCode_Workspace\templatecreation\PROJECTTEMPLATE\appsettings.Development.json" target="content\PROJECTTEMPLATE\appsettings.Development.json" />
+    <file src="C:\Users\Riven\Desktop\test\VSCode_Workspace\templatecreation\PROJECTTEMPLATE\appsettings.json" target="content\PROJECTTEMPLATE\appsettings.json" />
+    <file src="C:\Users\Riven\Desktop\test\VSCode_Workspace\templatecreation\PROJECTTEMPLATE\ClientApp\.browserslistrc" target="content\PROJECTTEMPLATE\ClientApp\.browserslistrc" />
+    <file src="C:\Users\Riven\Desktop\test\VSCode_Workspace\templatecreation\PROJECTTEMPLATE\ClientApp\.editorconfig" target="content\PROJECTTEMPLATE\ClientApp\.editorconfig" />
+    <file src="C:\Users\Riven\Desktop\test\VSCode_Workspace\templatecreation\PROJECTTEMPLATE\ClientApp\.gitignore" target="content\PROJECTTEMPLATE\ClientApp\.gitignore" />
+    <file src="C:\Users\Riven\Desktop\test\VSCode_Workspace\templatecreation\PROJECTTEMPLATE\ClientApp\angular.json" target="content\PROJECTTEMPLATE\ClientApp\angular.json" />
+    <file src="C:\Users\Riven\Desktop\test\VSCode_Workspace\templatecreation\PROJECTTEMPLATE\ClientApp\e2e\protractor.conf.js" target="content\PROJECTTEMPLATE\ClientApp\e2e\protractor.conf.js" />
+    <file src="C:\Users\Riven\Desktop\test\VSCode_Workspace\templatecreation\PROJECTTEMPLATE\ClientApp\e2e\src\app.e2e-spec.ts" target="content\PROJECTTEMPLATE\ClientApp\e2e\src\app.e2e-spec.ts" />
+    <file src="C:\Users\Riven\Desktop\test\VSCode_Workspace\templatecreation\PROJECTTEMPLATE\ClientApp\e2e\src\app.po.ts" target="content\PROJECTTEMPLATE\ClientApp\e2e\src\app.po.ts" />
+    <file src="C:\Users\Riven\Desktop\test\VSCode_Workspace\templatecreation\PROJECTTEMPLATE\ClientApp\e2e\tsconfig.json" target="content\PROJECTTEMPLATE\ClientApp\e2e\tsconfig.json" />
+    <file src="C:\Users\Riven\Desktop\test\VSCode_Workspace\templatecreation\PROJECTTEMPLATE\ClientApp\karma.conf.js" target="content\PROJECTTEMPLATE\ClientApp\karma.conf.js" />
+    <file src="C:\Users\Riven\Desktop\test\VSCode_Workspace\templatecreation\PROJECTTEMPLATE\ClientApp\package-lock.json" target="content\PROJECTTEMPLATE\ClientApp\package-lock.json" />
+    <file src="C:\Users\Riven\Desktop\test\VSCode_Workspace\templatecreation\PROJECTTEMPLATE\ClientApp\package.json" target="content\PROJECTTEMPLATE\ClientApp\package.json" />
+    <file src="C:\Users\Riven\Desktop\test\VSCode_Workspace\templatecreation\PROJECTTEMPLATE\ClientApp\README.md" target="content\PROJECTTEMPLATE\ClientApp\README.md" />
+    <file src="C:\Users\Riven\Desktop\test\VSCode_Workspace\templatecreation\PROJECTTEMPLATE\ClientApp\src\app\app-routing.module.ts" target="content\PROJECTTEMPLATE\ClientApp\src\app\app-routing.module.ts" />
+    <file src="C:\Users\Riven\Desktop\test\VSCode_Workspace\templatecreation\PROJECTTEMPLATE\ClientApp\src\app\app.component.css" target="content\PROJECTTEMPLATE\ClientApp\src\app\app.component.css" />
+    <file src="C:\Users\Riven\Desktop\test\VSCode_Workspace\templatecreation\PROJECTTEMPLATE\ClientApp\src\app\app.component.html" target="content\PROJECTTEMPLATE\ClientApp\src\app\app.component.html" />
+    <file src="C:\Users\Riven\Desktop\test\VSCode_Workspace\templatecreation\PROJECTTEMPLATE\ClientApp\src\app\app.component.spec.ts" target="content\PROJECTTEMPLATE\ClientApp\src\app\app.component.spec.ts" />
+    <file src="C:\Users\Riven\Desktop\test\VSCode_Workspace\templatecreation\PROJECTTEMPLATE\ClientApp\src\app\app.component.ts" target="content\PROJECTTEMPLATE\ClientApp\src\app\app.component.ts" />
+    <file src="C:\Users\Riven\Desktop\test\VSCode_Workspace\templatecreation\PROJECTTEMPLATE\ClientApp\src\app\app.module.ts" target="content\PROJECTTEMPLATE\ClientApp\src\app\app.module.ts" />
+    <file src="C:\Users\Riven\Desktop\test\VSCode_Workspace\templatecreation\PROJECTTEMPLATE\ClientApp\src\app\common\.keep" target="content\PROJECTTEMPLATE\ClientApp\src\app\common\.keep" />
+    <file src="C:\Users\Riven\Desktop\test\VSCode_Workspace\templatecreation\PROJECTTEMPLATE\ClientApp\src\app\components\shared\.keep" target="content\PROJECTTEMPLATE\ClientApp\src\app\components\shared\.keep" />
+    <file src="C:\Users\Riven\Desktop\test\VSCode_Workspace\templatecreation\PROJECTTEMPLATE\ClientApp\src\app\models\.keep" target="content\PROJECTTEMPLATE\ClientApp\src\app\models\.keep" />
+    <file src="C:\Users\Riven\Desktop\test\VSCode_Workspace\templatecreation\PROJECTTEMPLATE\ClientApp\src\app\services\.keep" target="content\PROJECTTEMPLATE\ClientApp\src\app\services\.keep" />
+    <file src="C:\Users\Riven\Desktop\test\VSCode_Workspace\templatecreation\PROJECTTEMPLATE\ClientApp\src\assets\.gitkeep" target="content\PROJECTTEMPLATE\ClientApp\src\assets\.gitkeep" />
+    <file src="C:\Users\Riven\Desktop\test\VSCode_Workspace\templatecreation\PROJECTTEMPLATE\ClientApp\src\environments\environment.prod.ts" target="content\PROJECTTEMPLATE\ClientApp\src\environments\environment.prod.ts" />
+    <file src="C:\Users\Riven\Desktop\test\VSCode_Workspace\templatecreation\PROJECTTEMPLATE\ClientApp\src\environments\environment.ts" target="content\PROJECTTEMPLATE\ClientApp\src\environments\environment.ts" />
+    <file src="C:\Users\Riven\Desktop\test\VSCode_Workspace\templatecreation\PROJECTTEMPLATE\ClientApp\src\favicon.ico" target="content\PROJECTTEMPLATE\ClientApp\src\favicon.ico" />
+    <file src="C:\Users\Riven\Desktop\test\VSCode_Workspace\templatecreation\PROJECTTEMPLATE\ClientApp\src\index.html" target="content\PROJECTTEMPLATE\ClientApp\src\index.html" />
+    <file src="C:\Users\Riven\Desktop\test\VSCode_Workspace\templatecreation\PROJECTTEMPLATE\ClientApp\src\main.ts" target="content\PROJECTTEMPLATE\ClientApp\src\main.ts" />
+    <file src="C:\Users\Riven\Desktop\test\VSCode_Workspace\templatecreation\PROJECTTEMPLATE\ClientApp\src\polyfills.ts" target="content\PROJECTTEMPLATE\ClientApp\src\polyfills.ts" />
+    <file src="C:\Users\Riven\Desktop\test\VSCode_Workspace\templatecreation\PROJECTTEMPLATE\ClientApp\src\styles.css" target="content\PROJECTTEMPLATE\ClientApp\src\styles.css" />
+    <file src="C:\Users\Riven\Desktop\test\VSCode_Workspace\templatecreation\PROJECTTEMPLATE\ClientApp\src\test.ts" target="content\PROJECTTEMPLATE\ClientApp\src\test.ts" />
+    <file src="C:\Users\Riven\Desktop\test\VSCode_Workspace\templatecreation\PROJECTTEMPLATE\ClientApp\tsconfig.app.json" target="content\PROJECTTEMPLATE\ClientApp\tsconfig.app.json" />
+    <file src="C:\Users\Riven\Desktop\test\VSCode_Workspace\templatecreation\PROJECTTEMPLATE\ClientApp\tsconfig.json" target="content\PROJECTTEMPLATE\ClientApp\tsconfig.json" />
+    <file src="C:\Users\Riven\Desktop\test\VSCode_Workspace\templatecreation\PROJECTTEMPLATE\ClientApp\tsconfig.spec.json" target="content\PROJECTTEMPLATE\ClientApp\tsconfig.spec.json" />
+    <file src="C:\Users\Riven\Desktop\test\VSCode_Workspace\templatecreation\PROJECTTEMPLATE\ClientApp\tslint.json" target="content\PROJECTTEMPLATE\ClientApp\tslint.json" />
+    <file src="C:\Users\Riven\Desktop\test\VSCode_Workspace\templatecreation\PROJECTTEMPLATE\Controllers\Resources\.keep" target="content\PROJECTTEMPLATE\Controllers\Resources\.keep" />
+    <file src="C:\Users\Riven\Desktop\test\VSCode_Workspace\templatecreation\PROJECTTEMPLATE\Core\Models\.keep" target="content\PROJECTTEMPLATE\Core\Models\.keep" />
+    <file src="C:\Users\Riven\Desktop\test\VSCode_Workspace\templatecreation\PROJECTTEMPLATE\Extensions\.keep" target="content\PROJECTTEMPLATE\Extensions\.keep" />
+    <file src="C:\Users\Riven\Desktop\test\VSCode_Workspace\templatecreation\PROJECTTEMPLATE\Mapping\.keep" target="content\PROJECTTEMPLATE\Mapping\.keep" />
+    <file src="C:\Users\Riven\Desktop\test\VSCode_Workspace\templatecreation\PROJECTTEMPLATE\Pages\Error.cshtml" target="content\PROJECTTEMPLATE\Pages\Error.cshtml" />
+    <file src="C:\Users\Riven\Desktop\test\VSCode_Workspace\templatecreation\PROJECTTEMPLATE\Pages\Error.cshtml.cs" target="content\PROJECTTEMPLATE\Pages\Error.cshtml.cs" />
+    <file src="C:\Users\Riven\Desktop\test\VSCode_Workspace\templatecreation\PROJECTTEMPLATE\Pages\_ViewImports.cshtml" target="content\PROJECTTEMPLATE\Pages\_ViewImports.cshtml" />
+    <file src="C:\Users\Riven\Desktop\test\VSCode_Workspace\templatecreation\PROJECTTEMPLATE\Persistance\.keep" target="content\PROJECTTEMPLATE\Persistance\.keep" />
+    <file src="C:\Users\Riven\Desktop\test\VSCode_Workspace\templatecreation\PROJECTTEMPLATE\Program.cs" target="content\PROJECTTEMPLATE\Program.cs" />
+    <file src="C:\Users\Riven\Desktop\test\VSCode_Workspace\templatecreation\PROJECTTEMPLATE\PROJECTTEMPLATE.csproj" target="content\PROJECTTEMPLATE\PROJECTTEMPLATE.csproj" />
+    <file src="C:\Users\Riven\Desktop\test\VSCode_Workspace\templatecreation\PROJECTTEMPLATE\Properties\launchSettings.json" target="content\PROJECTTEMPLATE\Properties\launchSettings.json" />
+    <file src="C:\Users\Riven\Desktop\test\VSCode_Workspace\templatecreation\PROJECTTEMPLATE\Startup.cs" target="content\PROJECTTEMPLATE\Startup.cs" />
+    <file src="C:\Users\Riven\Desktop\test\VSCode_Workspace\templatecreation\PROJECTTEMPLATE\wwwroot\favicon.ico" target="content\PROJECTTEMPLATE\wwwroot\favicon.ico" />
+  </files>
+</package>
